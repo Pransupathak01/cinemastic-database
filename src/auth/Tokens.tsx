@@ -1,0 +1,3 @@
+const BearerToken ="Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNTk5NzdiZGIzN2ZhMGQ1MWE3ZmQ2NjUxNTA3ZTNhYSIsInN1YiI6IjY2Njk4ZDdiNGMyMDcxYWJlYWJlYWI0ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ._dZOIbLcMw1uqTYHDdA07Mh8jkxbl6oFi76KddQG8f4"
+const Account_Id = "21324230"
+export {BearerToken,Account_Id}
